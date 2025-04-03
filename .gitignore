@@ -1,0 +1,5 @@
+cred
+.venv
+session1.session
+.env
+token.pickle
